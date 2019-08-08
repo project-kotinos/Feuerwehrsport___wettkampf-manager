@@ -12,3 +12,4 @@ ci:
 dependencies:
   build:
   - ruby:2.4.4
+  - node:10.15.1
